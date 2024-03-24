@@ -1,2 +1,2 @@
-# javascript--tool
-javascript -tool
+# javascript-tool
+javascript-tool
